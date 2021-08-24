@@ -1,0 +1,147 @@
+Tell me about your work in the current company.
+Why were you not in the top 3 rankers in your class?
+Internship description. I guess he was more interested in the internship projects. He was asking ” what, why and how”
+which language do you prefer, as I have mentioned C++ and Python in the resume? I said C++. then he asked me to code the same question(coding round) in python.
+Difference between Javascript and Angular. Angular vs React.
+what is MongoDB? difference between SQL and NoSQL. CAP Theorem
+How to further optimize the binary search? I used BIT manipulation. He again asked to optimize further. I told we can use only one comparison operator.  I coded but some edge cases were failing.
+How can we use the Binary search on Linked list? Is it an optimized search technique for linked list?
+Remove duplicates from the linked list
+Check a graph is cyclic or not. what is a Bipartite graph? check if the graph is bipartite using dfs and bfs?
+Traveling salesman problem using Dynamic Programming
+Difference between Segment Tree and Fenwick tree. Code for Segment Tree
+what happens when you type something on a search engine?
+Process synchronization. Deadlock etc.
+How did you think about the solution for the coding round?
+
+
+
+
+find whether a number is power of 2 or not in O(1)
+Question on Prefix sum ( don’t remember exactly ).
+draw the state transition diagram of operating system.
+draw the labelled diagram about what happens when we start a computer. what will change if we have more than 1 os in the pc. who will handle which operating system will run.
+LRU and its implementation and advantage.
+checked the in depth knowledge of contiguous and non contiguous memory location.
+process scheduling algorithms.
+Basics of network layer.
+Explanation of at least 2 protocol for each layer
+
+
+
+
+
+Given a binary tree, you have to find a node in the binary tree  from
+
+where it starts accepting BST property and return it’s size(maximum one).
+1.) Tell me about yourself
+
+2.)He asked to design weather station by giving constraints.
+
+Those problems can be easily cracked by knowing segment trees, self-balancing trees, Min heap and max- heap and had to code them on google Doc.
+
+3.) He, then asked a question on DP.
+
+a list of strings is given to you. Given an input string, your task is to split the string into substrings such that all sub strings are in the list of strings  and return “no string” if no such possibility.
+
+For example,
+
+string list[] = { “1”,”456″,”789″,”2″};
+
+input string = “12456”
+
+you have to partition the string into the sub strings “1”,”2″,”456″.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Explain the process of polymorphism.
+Explain the term rvalue.
+What are different types of arrays?
+State some differences between var++ and ++var.
+Do you know how single-dimension arrays are represented in memory?
+Can you write a Query to find the second largest salary in a company?
+What do you mean by left to right order?
+Can you list all the Coffman's conditions that lead to a deadlock?
+What are short, long and medium-term scheduling?
+Is it suggested to compare signed and unsigned numbers in C++?
+Given two polynomials as linked lists, return a linked list which represents the product of two polynomials.
+Given a Boolean 2D matrix, find whether there is path from (0,0) to (i,j) and if there is one path, return the minimum no of steps needed, else return -1.
+What is concept of inheritance in DBMS?
+Define B+ tree insertion and deletion.
+What is significance of inner join and outer join?
+
+
+
+Write the expression ((A + B) * C - (D - E) ^ (F + G)) to equivalent Prefix and Postfix notations.
+Given two arrays of equal size 100, one array contains 100 consecutive unique numbers in random order. The other contains numbers with the same range as the first, but they need not be unique and there will be repetitions as well as some numbers missing. Now return the array which has unique elements.
+What is Theta Join and Natural Join?
+What is the Transmission Control Protocol?
+List the layers of OSI.
+Tell me about Codd's rules in relational model of database systems.
+
+
+What is the Translation Look aside Buffer (TLB)?
+Define the term cycle stealing?
+Can you list the main difference between micro kernel and macro kernel?
+Give an example to use INSERT INTO/VALUES in SQL.
+What is B+ tree? Define its structure.
+What are dead locks and processes? Explain with reference to Operating Systems.
+What is armstrong's axioms in normalization?
+
+
+. He gave me one puzzle of 13 bottles containing liquid with same level and one bottle is poisoned. Now we have 4 rats
+You have 13 wine bottles, one of which is poisoned. You want to determine which bottle is poisoned by feeding the wines to the rats.
+The wine takes 24 hours to kill,now you have 4 rats to test. Determine the poisoned bottled within 24 hours.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://www.geeksforgeeks.org/samsung-interview-preparation/
